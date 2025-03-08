@@ -1,11 +1,11 @@
-# Walmart Data Analysis: End-to-End SQL + Python Project P-9
+# Walmart Data Analysis: End-to-End SQL + Python Project
 
 ## Project Overview
 
 ![Project Pipeline](https://github.com/ghogaresachin/Walmart-Data-Analysis/blob/master/walmart_project-piplelines.png?raw=true)
 
 
-This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
+This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. I have utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
 
 ---
 
@@ -66,9 +66,9 @@ This project is an end-to-end data analysis solution designed to extract critica
    - **Documentation**: Maintain well-structured documentation of the entire process in Markdown or a Jupyter Notebook.
    - **Project Publishing**: Publish the completed project on GitHub or any other version control platform, including:
      - The `README.md` file (this document).
-     - Jupyter Notebooks (if applicable).
+     - Jupyter Notebooks.
      - SQL query scripts.
-     - Data files (if possible) or steps to access them.
+     - Data files and steps to access them(If anyone want to download the data).
 
 ---
 
@@ -102,7 +102,6 @@ This project is an end-to-end data analysis solution designed to extract critica
 |-- notebooks/                # Jupyter notebooks for Python analysis
 |-- README.md                 # Project documentation
 |-- requirements.txt          # List of required Python libraries
-|-- main.py                   # Main script for loading, cleaning, and processing data
 ```
 ---
 
