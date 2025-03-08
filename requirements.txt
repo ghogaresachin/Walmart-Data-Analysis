@@ -1,0 +1,8 @@
+pandas
+
+# mysql toolkit
+pymysql # This will work as adapter
+sqlalchemy  # create_engine
+
+#postgre sql
+psycopg2
